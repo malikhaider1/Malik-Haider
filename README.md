@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 ⚡ Fun fact: **I love turning ideas into functional and beautiful apps!**  
 
 ### 📫 How to Reach Me  
-📧 Email: [[malikha499@gmail.com](mailto:malikha499@gmail.com)](mailto:malikha499@gmail.com)  
+📧 Email: [malikha499@gmail.com](mailto:malikha499@gmail.com)  
 🔗 GitHub: [[@malikhaider1](https://github.com/malikhaider1)](https://github.com/malikhaider1)  
 
 Feel free to check out my repositories and connect for discussions or collaborations! 🚀😊  
