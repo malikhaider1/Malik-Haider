@@ -15,7 +15,3 @@ Welcome to my GitHub profile! Here’s a bit about me:
 🔗 GitHub: [[@malikhaider1](https://github.com/malikhaider1)](https://github.com/malikhaider1)  
 
 Feel free to check out my repositories and connect for discussions or collaborations! 🚀😊  
-
----
-
-Let me know if you want any refinements! 🚀🔥
